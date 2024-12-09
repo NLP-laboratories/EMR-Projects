@@ -92,3 +92,25 @@ FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/runs/*
 
 FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/Tensorboard/*
 !FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/Tensorboard/.gitkeep
+
+
+# NestedNER
+# GlobalPointer_pytorch
+
+NestedNER/GlobalPointer_pytorch/datasets/CHD/*
+!NestedNER/GlobalPointer_pytorch/datasets/CHD/.gitkeep
+
+NestedNER/GlobalPointer_pytorch/datasets/cluener/*
+!NestedNER/GlobalPointer_pytorch/datasets/cluener/.gitkeep
+
+NestedNER/GlobalPointer_pytorch/datasets/CMeEE-V2/*
+!NestedNER/GlobalPointer_pytorch/datasets/CMeEE-V2/.gitkeep
+
+NestedNER/GlobalPointer_pytorch/pretrained_models/bert-base-chinese/*
+!NestedNER/GlobalPointer_pytorch/pretrained_models/bert-base-chinese/.gitkeep
+
+NestedNER/GlobalPointer_pytorch/wandb/*
+!NestedNER/GlobalPointer_pytorch/wandb/.gitkeep
+
+
+
