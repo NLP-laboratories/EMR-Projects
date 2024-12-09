@@ -144,5 +144,29 @@ NestedNER/GlobalPointer_GAT/outputs/*
 NestedNER/GlobalPointer_GAT/results/*
 !NestedNER/GlobalPointer_GAT/results/.gitkeep
 
+# GlobalPointer_GAT_Boundary
+
+NestedNER/GlobalPointer_GAT_Boundary/datasets/CHD/*
+!NestedNER/GlobalPointer_GAT_Boundary/datasets/CHD/.gitkeep
+
+NestedNER/GlobalPointer_GAT_Boundary/datasets/cluener/*
+!NestedNER/GlobalPointer_GAT_Boundary/datasets/cluener/.gitkeep
+
+NestedNER/GlobalPointer_GAT_Boundary/datasets/CMeEE-V2/*
+!NestedNER/GlobalPointer_GAT_Boundary/datasets/CMeEE-V2/.gitkeep
+
+NestedNER/GlobalPointer_GAT_Boundary/pretrained_models/bert-base-chinese/*
+!NestedNER/GlobalPointer_GAT_Boundary/pretrained_models/bert-base-chinese/.gitkeep
+
+NestedNER/GlobalPointer_GAT_Boundary/wandb/*
+!NestedNER/GlobalPointer_GAT_Boundary/wandb/.gitkeep
+
+NestedNER/GlobalPointer_GAT_Boundary/outputs/*
+!NestedNER/GlobalPointer_GAT_Boundary/outputs/.gitkeep
+
+NestedNER/GlobalPointer_GAT_Boundary/results/*
+!NestedNER/GlobalPointer_GAT_Boundary/results/.gitkeep
+
+
 
 
