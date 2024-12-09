@@ -112,5 +112,11 @@ NestedNER/GlobalPointer_pytorch/pretrained_models/bert-base-chinese/*
 NestedNER/GlobalPointer_pytorch/wandb/*
 !NestedNER/GlobalPointer_pytorch/wandb/.gitkeep
 
+NestedNER/GlobalPointer_pytorch/outputs/*
+!NestedNER/GlobalPointer_pytorch/outputs/.gitkeep
+
+NestedNER/GlobalPointer_pytorch/results/*
+!NestedNER/GlobalPointer_pytorch/results/.gitkeep
+
 
 
