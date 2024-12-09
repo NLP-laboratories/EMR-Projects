@@ -25,7 +25,7 @@ FlatNER/BERT_BiLSTM_CRF/Tensorboard/*
 !FlatNER/BERT_BiLSTM_CRF/Tensorboard/.gitkeep
 
 
-# BERT_BiLSTM_CRF
+# BERT_BiLSTM_CGCN_att_CRF
 FlatNER/BERT_BiLSTM_CGCN_att_CRF/HuggingFace_Model/bert-base-chinese/*
 !FlatNER/BERT_BiLSTM_CGCN_att_CRF/HuggingFace_Model/bert-base-chinese/.gitkeep
 
@@ -57,3 +57,38 @@ FlatNER/BERT_BiLSTM_CGCN_att_CRF/runs/*
 
 FlatNER/BERT_BiLSTM_CGCN_att_CRF/Tensorboard/*
 !FlatNER/BERT_BiLSTM_CGCN_att_CRF/Tensorboard/.gitkeep
+
+
+
+# BERT_BiLSTM_CGCN_similarity_CRF
+FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/HuggingFace_Model/bert-base-chinese/*
+!FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/HuggingFace_Model/bert-base-chinese/.gitkeep
+
+FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/input/*
+!FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/input/.gitkeep
+
+FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/HuggingFace_Model/Fasttext_model/*
+!FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/HuggingFace_Model/Fasttext_model/.gitkeep
+
+
+FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/HuggingFace_Model/LTP_BASE1/*
+!FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/HuggingFace_Model/LTP_BASE1/.gitkeep
+
+
+FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/output/annotation/*
+!FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/output/annotation/.gitkeep
+
+FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/output/dataset/EDA_CHD/*
+!FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/output/dataset/EDA_CHD/.gitkeep
+
+FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/output/dataset/Ruijin_EDA/*
+!FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/output/dataset/Ruijin_EDA/.gitkeep
+
+FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/output/model/*
+!FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/output/model/.gitkeep
+
+FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/runs/*
+!FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/runs/.gitkeep
+
+FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/Tensorboard/*
+!FlatNER/BERT_BiLSTM_CGCN_similarity_CRF/Tensorboard/.gitkeep
