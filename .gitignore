@@ -27,25 +27,33 @@ FlatNER/BERT_BiLSTM_CRF/Tensorboard/*
 
 # BERT_BiLSTM_CRF
 FlatNER/BERT_BiLSTM_CGCN_att_CRF/HuggingFace_Model/bert-base-chinese/*
-!FlatNER/BERT_BiLSTM_CGCN_att_CRF/HuggingFace_Model/bert-base-chinese/.gitignore
+!FlatNER/BERT_BiLSTM_CGCN_att_CRF/HuggingFace_Model/bert-base-chinese/.gitkeep
 
 FlatNER/BERT_BiLSTM_CGCN_att_CRF/input/*
-!FlatNER/BERT_BiLSTM_CGCN_att_CRF/input/.gitignore
+!FlatNER/BERT_BiLSTM_CGCN_att_CRF/input/.gitkeep
+
+FlatNER/BERT_BiLSTM_CGCN_att_CRF/HuggingFace_Model/Fasttext_model/*
+!FlatNER/BERT_BiLSTM_CGCN_att_CRF/HuggingFace_Model/Fasttext_model/.gitkeep
+
+
+FlatNER/BERT_BiLSTM_CGCN_att_CRF/HuggingFace_Model/LTP_BASE1/*
+!FlatNER/BERT_BiLSTM_CGCN_att_CRF/HuggingFace_Model/LTP_BASE1/.gitkeep
+
 
 FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/annotation/*
-!FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/annotation/.gitignore
+!FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/annotation/.gitkeep
 
 FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/dataset/EDA_CHD/*
-!FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/dataset/EDA_CHD/.gitignore
+!FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/dataset/EDA_CHD/.gitkeep
 
-FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/dataset/Ruijin/*
-!FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/dataset/Ruijin/.gitignore
+FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/dataset/Ruijin_EDA/*
+!FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/dataset/Ruijin_EDA/.gitkeep
 
 FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/model/*
-!FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/model/.gitignore
+!FlatNER/BERT_BiLSTM_CGCN_att_CRF/output/model/.gitkeep
 
 FlatNER/BERT_BiLSTM_CGCN_att_CRF/runs/*
-!FlatNER/BERT_BiLSTM_CGCN_att_CRF/runs/.gitignore
+!FlatNER/BERT_BiLSTM_CGCN_att_CRF/runs/.gitkeep
 
 FlatNER/BERT_BiLSTM_CGCN_att_CRF/Tensorboard/*
-!FlatNER/BERT_BiLSTM_CGCN_att_CRF/Tensorboard/.gitignore
+!FlatNER/BERT_BiLSTM_CGCN_att_CRF/Tensorboard/.gitkeep
