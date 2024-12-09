@@ -6,14 +6,14 @@ FlatNER/BERT_BiLSTM_CRF/HuggingFace_Model/bert-base-chinese/*
 FlatNER/BERT_BiLSTM_CRF/input/*
 !FlatNER/BERT_BiLSTM_CRF/input/.gitkeep
 
-FlatNER/BERT_BiLSTM_CRF/output/*
-!FlatNER/BERT_BiLSTM_CRF/output/.gitkeep
+# FlatNER/BERT_BiLSTM_CRF/output/*
+# !FlatNER/BERT_BiLSTM_CRF/output/.gitkeep
 
 FlatNER/BERT_BiLSTM_CRF/output/annotation/*
 !FlatNER/BERT_BiLSTM_CRF/output/annotation/.gitkeep
 
-FlatNER/BERT_BiLSTM_CRF/output/dataset/*
-!FlatNER/BERT_BiLSTM_CRF/output/dataset/.gitkeep
+# FlatNER/BERT_BiLSTM_CRF/output/dataset/*
+# !FlatNER/BERT_BiLSTM_CRF/output/dataset/.gitkeep
 
 FlatNER/BERT_BiLSTM_CRF/output/dataset/EDA_CHD/*
 !FlatNER/BERT_BiLSTM_CRF/output/dataset/EDA_CHD/.gitkeep
